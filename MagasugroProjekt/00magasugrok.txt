@@ -1,0 +1,7 @@
+Magas János;1,32
+Nagylábú Péter;1,45
+Péter Anna;1,33
+Magyony Erzsi;1,49
+Gyors János;1,23
+Lassú Erzsi;1,11
+Rugó János;1,25
