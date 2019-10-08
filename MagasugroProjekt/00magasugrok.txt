@@ -4,4 +4,6 @@ Péter Anna;1,33
 Magyony Erzsi;1,49
 Gyors János;1,23
 Lassú Erzsi;1,11
+alacsony Péter;1,15
 Rugó János;1,25
+
