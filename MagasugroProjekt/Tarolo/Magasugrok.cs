@@ -20,7 +20,7 @@ namespace MagasugroProjekt.Tarolo
 
         public void beolvas()
         {
-            StreamReader sr=new StreamReader("00magasugrok.txt");
+            StreamReader sr=new StreamReader("../../00magasugrok.txt");
             while (!sr.EndOfStream)
             {
                 string sor = sr.ReadLine();

@@ -12,11 +12,11 @@ namespace MagasugroProjekt
     {
         static void Main(string[] args)
         {
-            Magasugrok magasugrok = new Magasugrok();
-            magasugrok.beolvas();
+            Magasugrok magasugroAdatok = new Magasugrok();
+            magasugroAdatok.beolvas();
 
             Console.WriteLine("1. feladat");
-            Console.WriteLine("Magasugrók száma: " + magasugrok.getMagasugrokSzama());
+            Console.WriteLine("Magasugrók száma: " + magasugroAdatok.getMagasugrokSzama());
             Console.ReadKey();
                 
         }
